@@ -1,0 +1,22 @@
+<svg width="158" height="158" viewBox="0 0 158 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1171275104">
+<foreignObject x="0.226562" y="0.568359" width="157.066" height="157.066"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2.5px);clip-path:url(#bgblur_0_4125_754_clip_path);height:100%;width:100%"></div></foreignObject><g id="Ellipse 42" filter="url(#filter0_d_4125_754)" data-figma-bg-blur-radius="5">
+<circle cx="76.7595" cy="77.1013" r="48.533" fill="white" fill-opacity="0.5" shape-rendering="crispEdges"/>
+<circle cx="76.7595" cy="77.1013" r="48.033" stroke="white" stroke-opacity="0.3" shape-rendering="crispEdges"/>
+</g>
+<path id="Vector" d="M95.8016 75.9686L65.9143 58.7081C65.5823 58.523 65.2084 58.4258 64.8283 58.4258C64.4481 58.4258 64.0743 58.523 63.7423 58.7081C63.4138 58.9011 63.1411 59.176 62.9507 59.5059C62.7604 59.8359 62.6589 60.2096 62.6563 60.5905V95.1115C62.656 95.4929 62.7562 95.8677 62.9467 96.1981C63.1373 96.5285 63.4114 96.8028 63.7417 96.9936C64.0719 97.1844 64.4466 97.2849 64.8279 97.285C65.2093 97.2851 65.584 97.1847 65.9143 96.994L95.8016 79.7335C96.1325 79.543 96.4073 79.2688 96.5984 78.9383C96.7895 78.6078 96.8901 78.2328 96.8901 77.851C96.8901 77.4693 96.7895 77.0943 96.5984 76.7638C96.4073 76.4333 96.1325 76.1591 95.8016 75.9686Z" fill="#001340"/>
+</g>
+<defs>
+<filter id="filter0_d_4125_754" x="0.226562" y="0.568359" width="157.066" height="157.066" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="2"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4125_754"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4125_754" result="shape"/>
+</filter>
+<clipPath id="bgblur_0_4125_754_clip_path" transform="translate(-0.226562 -0.568359)"><circle cx="76.7595" cy="77.1013" r="48.533"/>
+</clipPath></defs>
+</svg>
